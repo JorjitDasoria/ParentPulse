@@ -10,6 +10,10 @@ ParentPulse is an all-in-one parenting app designed to support new parents with 
 ✅ **Integrated Mental Health Support** – Access guided meditations, stress management tools, and expert resources.  
 ✅ **Parent Community** – Join forums for discussions, peer support, and expert Q&As.  
 
+## 🏆 Competition
+
+ParentPulse was developed as part of the **MedTech Hackathon at King's College London**, an innovation-driven competition focused on creating impactful healthcare solutions. The hackathon brought together multidisciplinary teams of developers, designers, and healthcare professionals to tackle real-world medical challenges. ParentPulse stood out by addressing the critical need for holistic infant care, combining baby tracking with parental mental health support in a seamless digital experience.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
