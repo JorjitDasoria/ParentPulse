@@ -50,16 +50,3 @@ Ensure you have the following installed:
 - [ ] Multi-language support  
 - [ ] Community-driven Q&A forum  
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Commit changes:
-   ```bash
-   git commit -m "Added new feature"
-   ```
-4. Push to your fork and submit a pull request!
