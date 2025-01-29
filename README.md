@@ -36,7 +36,7 @@ Ensure you have the following installed:
    ```
 4. Run the application:
    ```bash
-   python app.py
+   python ParentPulse_OpenAi.py
    ```
 
 ## 🛠 Tech Stack
